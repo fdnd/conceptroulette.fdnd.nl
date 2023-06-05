@@ -56,7 +56,7 @@ const trend = [
   'baroque minimalist',
   'pop-art',
   'hippy chique',
-  'maximalist,
+  'maximalist',
   'blurs and gradients',
   'touch and feel',
   'holographic surreal',
