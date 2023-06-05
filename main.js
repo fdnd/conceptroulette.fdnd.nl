@@ -25,6 +25,16 @@ const adjective = [
   'gravitational',
   'pretty',
   'sad',
+  'hilarious',
+  'merry',
+  'silly',
+  'whimsical',
+  'riotous',
+  'hysterical',
+  'comical',
+  'jocular',
+  'syzygal',
+  'ridiculous',
 ]
 const trend = [
   'mystic',
@@ -46,8 +56,15 @@ const trend = [
   'baroque minimalist',
   'pop-art',
   'hippy chique',
+  'maximalist,
+  'blurs and gradients',
+  'touch and feel',
+  'holographic surreal',
+  'digital dreamscape',
+  'post-apocaliptic',
 ]
 const component = [
+  'tooltip',  
   'menu',
   'carousel',
   'page-transition',
@@ -62,7 +79,6 @@ const component = [
   'label',
   'list',
   'card',
-  'chapter',
   'back-to-top',
   'chatbox',
   'skip-to-content',
@@ -70,6 +86,7 @@ const component = [
   'page load',
   'text animation',
   'shuffle'
+  'toggle',
 ]
 
 let klikEnWin = document.querySelector('nav a:first-of-type')
