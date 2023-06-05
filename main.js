@@ -85,7 +85,7 @@ const component = [
   'scroll animation',
   'page load',
   'text animation',
-  'shuffle'
+  'shuffle',
   'toggle',
 ]
 
