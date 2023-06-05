@@ -66,6 +66,10 @@ const component = [
   'back-to-top',
   'chatbox',
   'skip-to-content',
+  'scroll animation',
+  'page load',
+  'text animation',
+  'shuffle'
 ]
 
 let klikEnWin = document.querySelector('nav a:first-of-type')
