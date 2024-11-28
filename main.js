@@ -91,7 +91,7 @@ const component = [
   // 'back-to-top',
   // 'chatbox',
   // 'skip-to-content',
-  'scroll animation',
+  'scroll driven animation',
   // 'page load',
   // 'text animation',
   // 'shuffle',
